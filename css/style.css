@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-btn{
+    background-color: black;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+.see{
+    color: #FFA331;
+}
+
+.pro-row{
+    margin-bottom: 30px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align:center;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card img{
+    margin-top: 10px;
+}
+
+.img{
+    height: 350px;
+    width: 300px;
+    margin: auto;
+    margin-top: 40px;
+}
