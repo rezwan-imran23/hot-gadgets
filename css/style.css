@@ -43,3 +43,37 @@
     margin: auto;
     margin-top: 40px;
 }
+
+.yellow{
+    height: 6px;
+    width: 100px;
+    background-color: lightsalmon;
+    margin: auto;
+    border-radius: 8px;
+    
+}
+
+.cat-head{
+    height:45px;
+    text-align: center;
+}
+
+.box{
+
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px 0px 20px 0px;
+    padding: 50px;
+
+}
+.box h5{
+    text-align: center;
+    line-height: 30px;
+}
+
+.row{
+    margin-top: 50px;
+}
+
+.box1{
+    margin-bottom: 40px;
+}
